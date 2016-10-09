@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536196524735",
+    "firebase_url": "https://chhuddy-buddy-4ed15.firebaseio.com",
+    "project_id": "chhuddy-buddy-4ed15",
+    "storage_bucket": "chhuddy-buddy-4ed15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536196524735:android:df852012bfb16141",
+        "android_client_info": {
+          "package_name": "com.tatsme.chhuddybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536196524735-5n36cl3br3segjd3jg0f4kjfdf8n01ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tatsme.chhuddybuddy",
+            "certificate_hash": "16B5E6AC84FE50667AB98C7515D0EA8710B5FB21"
+          }
+        },
+        {
+          "client_id": "536196524735-nnd560086tho3f0h8140hb9j3g95fe4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvF9DGh40NB39917QNyKUQ6SOFrPziwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536196524735-nnd560086tho3f0h8140hb9j3g95fe4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
